@@ -64,7 +64,7 @@
     "react-useanimations": "^2.0.5",
     "serverless-mysql": "^1.5.4",
     "sql-template-strings": "^2.2.2",
-    "swr": "^0.3.0",
+    "swr": "^2.0.0",
     "webfontloader": "^1.6.28",
     "zustand": "^3.5.7"
   },
