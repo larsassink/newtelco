@@ -48,7 +48,7 @@
     "lodash.isequal": "^4.5.0",
     "lodash.isobject": "^3.0.2",
     "lodash.transform": "^4.6.0",
-    "logrocket": "^1.1.0",
+    "logrocket": "^9.0.0",
     "logrocket-react": "^4.0.1",
     "moment-timezone": "^0.5.31",
     "next": "^11.0.1",
