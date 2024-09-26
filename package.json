@@ -81,7 +81,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "less": "^4.1.1",
     "less-loader": "^10.0.1",
-    "lint-staged": "^10.5.4",
+    "lint-staged": "^15.0.0",
     "mini-css-extract-plugin": "^2.2.0",
     "prettier": "^2.0.5",
     "rsuite": "^4.10.2",
