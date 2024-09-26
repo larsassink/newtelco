@@ -43,7 +43,7 @@
     "dompurify": "^2.5.4",
     "file-saver": "^2.0.2",
     "formik": "^2.1.5",
-    "just-debounce-it": "^1.1.0",
+    "just-debounce-it": "^3.0.0",
     "lodash.isarray": "^4.0.0",
     "lodash.isequal": "^4.5.0",
     "lodash.isobject": "^3.0.2",
