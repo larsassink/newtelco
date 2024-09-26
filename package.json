@@ -40,7 +40,7 @@
     "algoliasearch": "^4.4.0",
     "apexcharts": "^3.20.0",
     "date-fns": "^2.15.0",
-    "dompurify": "^2.5.4",
+    "dompurify": "^3.0.0",
     "file-saver": "^2.0.2",
     "formik": "^2.1.5",
     "just-debounce-it": "^1.1.0",
