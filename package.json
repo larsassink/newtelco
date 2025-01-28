@@ -34,7 +34,7 @@
   "dependencies": {
     "@nivo/bar": "^0.73.1",
     "@nivo/calendar": "^0.73.0",
-    "@sentry/nextjs": "^8.46.0",
+    "@sentry/nextjs": "^8.52.0",
     "@tinymce/tinymce-react": "^3.6.0",
     "algolia-react-autocomplete": "^1.0.5",
     "algoliasearch": "^4.4.0",
